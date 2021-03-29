@@ -1,8 +1,5 @@
 # A-Neural-Algorithm-of-Artistic-Style
 
-You need tensorflow 2.0 to run this code.
-
-Loss can be terribly high, but keep going if result is good enough.
 
 Hyperparameter is not exactly same with original paper.
 
